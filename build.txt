@@ -1,0 +1,3 @@
+displayName = Respawn Relay
+author = SheepishShepherd
+version = 0.1
